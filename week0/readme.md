@@ -5,10 +5,12 @@
 
 ## 목적
 매주 주차에 맞는 스터디와 이에 따른 학습 목표 달성
-  BACKEND : SpringBoot
-  DB: MYSQL + MyBatis
-  FrontEnd: Base( HTML/CSS/JS ) -> 템플릿 제공
-            개별 자유
+  | 영역  | 활용 스택  |
+  |:------|----------:|
+  |BACKEND  | SpringBoot  |
+  |DATABASE|  MYSQL + MyBatis|
+  |FRONTEND| Base( HTML/CSS/JS ) -> 템플릿 제공 개별 자유|
+
 
 ## 요구사항
 
