@@ -32,7 +32,7 @@
 기존의 코드를 프론트는 비동기로 서버에 통신하며 서버는 데이터만 내려주는 구조를 만들어 봅시다.
 템플릿을 첨부하였으니, 막혔을 때 언제든 참조하세요.
 
-[https://github.com/AMIVAYUN/springtrashTemplate]( 템플릿 레포지토리 주소 )
+[ 템플릿 레포지토리 주소 ]( https://github.com/AMIVAYUN/springtrashTemplate )
 
 
 ## 변경 이력
