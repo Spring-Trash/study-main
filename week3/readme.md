@@ -1,6 +1,6 @@
 
 
-# Spring-Trash 2nd Week HW
+# Spring-Trash 3nd Week HW
 
 ## 목표
 
